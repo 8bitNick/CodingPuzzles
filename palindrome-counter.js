@@ -1,8 +1,7 @@
 //Return length of longest palindrome in the sentence
 
-let testWord = "hannah loves racecars shannahs";
-let noSpaceWord = testWord.replace(/\s/g, '');
-let testArray = noSpaceWord.split("");
+let testPhrase = "hannah loves racecars shannahs banAnAnanAnanan";
+let testArray = testPhrase.toLowerCase().replace(/\s/g, '').split("");
 
 function palindromeCount(wordArray) {
     let longestWordCount = 1;
