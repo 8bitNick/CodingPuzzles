@@ -1,7 +1,6 @@
 # CodingPuzzles
 
-## A Personal Repository for Coding Puzzles
-### And Other Small Projects
+## A Personal Repository for Coding Puzzles And Other Small Projects
 
 ### List of Projects and Completion Date
 Project | Date
