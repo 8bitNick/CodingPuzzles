@@ -5,4 +5,5 @@
 
 ### List of Projects and Completion Date
 Project | Date
+------- | ----
 Palindrome Search | 6/6/2020
